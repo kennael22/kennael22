@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kennael22 junior level
-- 🌱 php laravel, codeigniter, vbnet
+- 🌱 laravel, codeigniter, vbnet
 - 🌱 javascript vue
 - 🌱 MySql
 - 📫 kennael22@yahoo.com
