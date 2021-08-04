@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennael22
+- 👋 Hi, I’m @kennael22 junior level
 - 🌱 php laravel, codeigniter, vbnet
 - 🌱 javascript vue
 - 🌱 MySql
